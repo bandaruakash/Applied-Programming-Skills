@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/bandaruakash/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/bandaruakash/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bandaruakash/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/bandaruakash/Applied-Programming-Skills/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/bandaruakash/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bandaruakash/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bandaruakash/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/bandaruakash/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/bandaruakash/Applied-Programming-Skills/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/bandaruakash/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/bandaruakash/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
